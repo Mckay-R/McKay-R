@@ -16,6 +16,5 @@ I have a strong background in statistics with experience in the financial servic
 ## Skills
 * 👨‍💻 Python, SAS, SQL, R
 
-![Kayode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mckay-R&show_icons=true&theme=radical)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mckay-R.count_visitors)
 
