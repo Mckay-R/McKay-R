@@ -11,6 +11,11 @@ I am a Statistician & Data Scientist. My work revolves around statistical learni
 
 I have a strong background in statistics with experience in the financial services. I am currently bridging the gap between questions and decisions at a leading financial institutions in the United States.
 
+- 📫 How to reach me **oyenirankayode@gmail.com**
+
 ## Skills
 * 👨‍💻 Python, SAS, SQL, R
+
+![Kayode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mckay-R&show_icons=true&theme=radical)
+
 
