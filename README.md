@@ -11,3 +11,6 @@ I am a Statistician & Data Scientist. My work revolves around statistical learni
 
 I have a strong background in statistics with experience in the financial services. I am currently bridging the gap between questions and decisions at a leading financial institutions in the United States.
 
+## Skills
+* 👨‍💻 Python, SAS, SQL, R
+
