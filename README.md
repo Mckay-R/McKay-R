@@ -7,9 +7,9 @@
 
 ### About me :rocket:
 
-I am a Statistician & Data Scientist. My work revolves around statistical learning, risk management, and customer analytics. I have worked as a data professional for more than 5 years in retail, credit risk, consulting, environmental risk, and marketing. 
+I am a Statistician and Data Scientist with over 5 years of experience applying statistical learning and advanced analytics in the financial services industry. My professional background spans quantitative research, credit risk, consulting, and marketing analytics — where I’ve delivered data-driven solutions that support strategic decision-making and regulatory compliance.
 
-I have a strong background in statistics with experience in the financial services. I am currently bridging the gaps between question and decision at a leading financial institution in the United States.
+With a strong foundation in statistics and applied mathematics, I bring both theoretical rigor and practical expertise to my work. I am currently pursuing a Ph.D. in Applied Mathematics at Wichita State University, where my research focuses on mathematical finance, econometrics, causal inference, and interpretable machine learning.
 
 - 📫 How to reach me: **oyenirankayode@gmail.com**
 
